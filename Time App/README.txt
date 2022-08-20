@@ -5,4 +5,4 @@ Flutter Time App:
     Through the navigation bar the user can navigate to the stopwatch screen that utilizes a Flutter stop watch
     timer package to create a stop watch that can start, stop, reset and lap on time.
 
-    Watch Demo video TimeAppDemo -> https://youtube.com/shorts/9lwGN5VX7N8?feature=share
+    Watch Demo video TimeAppDemo here-> https://youtube.com/shorts/9lwGN5VX7N8?feature=share
