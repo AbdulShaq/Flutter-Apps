@@ -6,4 +6,4 @@ Flutter Movie App:
  A long press on the movie option will bring a pop-up menu to display 3 options: 1. Option to go to movie’s ImDb page; 2.Option to go to movie's Wikipedia page; 
  3.Option for more information on the movie such as runtime, Rotten Tomato Rating, ImDb Rating, etc.
 
- Watch Demo video titled MovieAppDemo.webm
+ Watch Demo video MovieAppDemo here-> https://youtu.be/gUFnpBrmEAY
